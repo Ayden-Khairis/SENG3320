@@ -1,0 +1,60 @@
+Value a = 3, Value b = 9, Value c = 1
+non-triangle.
+Value a = 0, Value b = 5, Value c = 8
+non-triangle.
+Value a = 7, Value b = 3, Value c = 2
+non-triangle.
+Value a = 0, Value b = 8, Value c = 5
+non-triangle.
+Value a = 9, Value b = 1, Value c = 6
+non-triangle.
+Value a = 3, Value b = 1, Value c = 7
+non-triangle.
+Value a = 3, Value b = 5, Value c = 7
+triangle.
+Value a = 4, Value b = 7, Value c = 1
+non-triangle.
+Value a = 4, Value b = 7, Value c = 1
+non-triangle.
+Value a = 4, Value b = 4, Value c = 7
+No Result
+Value a = 0, Value b = 1, Value c = 7
+non-triangle.
+Value a = 0, Value b = 8, Value c = 8
+non-triangle.
+Value a = 8, Value b = 7, Value c = 4
+triangle.
+Value a = 0, Value b = 0, Value c = 3
+non-triangle.
+Value a = 0, Value b = 2, Value c = 7
+non-triangle.
+Value a = 5, Value b = 3, Value c = 9
+non-triangle.
+Value a = 6, Value b = 6, Value c = 6
+equilateral triangle.
+Value a = 5, Value b = 3, Value c = 7
+triangle.
+Value a = 1, Value b = 5, Value c = 9
+non-triangle.
+Value a = 1, Value b = 4, Value c = 0
+non-triangle.
+Value a = 3, Value b = 1, Value c = 6
+non-triangle.
+Value a = 8, Value b = 4, Value c = 0
+non-triangle.
+Value a = 8, Value b = 5, Value c = 7
+triangle.
+Value a = 2, Value b = 7, Value c = 2
+non-triangle.
+Value a = 9, Value b = 8, Value c = 8
+isosceles triangle.
+
+Total resuls:
+equilateral triangle: 1
+isosceles triangle: 1
+triangle: 4
+non-triangle: 18
+ERRORED RESULTS: 1
+
+Total Runs: 25
+Total Time to compute (milliseconds): 30
